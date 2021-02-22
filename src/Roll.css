@@ -1,0 +1,17 @@
+.Roll{
+	width:20vw;
+	position: absolute;
+	left:11vw;
+	top: 12vw;
+	opacity: 0.9;
+	background-color: #bbb;
+}
+.title{
+	margin-top: 1vw;
+	font-size: 1vw;
+	color : #000;
+}
+.image{
+	width : 3vw;
+	height: 3vw;
+}

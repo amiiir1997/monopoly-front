@@ -1,0 +1,7 @@
+.Playercard{
+	width: 34vw;
+	height: 40vw;
+	margin: 1vw;
+	overflow-y: auto;
+	overflow-x: hidden;
+}

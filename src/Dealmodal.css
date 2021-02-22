@@ -1,0 +1,17 @@
+.image{
+	width : 3vw;
+	height: 3vw;
+}
+.div1{
+	max-width: 45%;
+	position: relative;
+	float: left;
+}
+.div2{
+	max-width: 45%;
+	position: relative;
+	float:right;
+}
+.red{
+	color : #f00;
+}

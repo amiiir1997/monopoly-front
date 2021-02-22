@@ -1,0 +1,9 @@
+.gameboarddiv{
+	width: 42vw;
+	max-width: 42vw;
+}
+.gameboard{
+	width: 40vw;
+	max-width: 40vw;
+	margin: 1vw;
+}

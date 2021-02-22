@@ -1,0 +1,24 @@
+.Chatpm{
+	padding :0px;
+	
+}
+.name{
+	margin-left: 5%;
+}
+.pm{
+	margin-left: 10%;
+}
+.myname{
+	margin-right: 5%;
+	text-align: right;
+}
+.mypm{
+	margin-right: 10%;
+	text-align: right;
+
+}
+.hr{
+	margin :0px;
+	padding: 0px;
+
+}

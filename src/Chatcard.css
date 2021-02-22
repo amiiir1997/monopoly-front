@@ -1,0 +1,9 @@
+.Chatcard{
+	width: 15vw;
+	height: 40vw;
+}
+.pmbox{
+	margin-top: auto;
+	margin-bottom: 0px;
+	overflow: auto;
+}

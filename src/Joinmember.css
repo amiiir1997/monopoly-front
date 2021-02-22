@@ -1,0 +1,14 @@
+.Joinmember{
+	width : 100%;
+}
+.left{
+	margin-left:0vw;
+	font-size: 1.25vw;
+	color : #fff;
+}
+.right{
+	font-size: .75vw;
+	margin-right:0vw;
+	padding-left: 1vw;
+	color : #f00;
+}
